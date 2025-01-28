@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on full stack<br>I'm learning react,node js,java and c
+I'm currently working on C and Java <br>I'm Trying to improve my problem solving skill
 
 
 # 💻 Tech Stack:
